@@ -1,4 +1,4 @@
-# pylonseo-io
+# Pylon SEO
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,118 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-pylonseo-io is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://pylonseo.io/
+Pylon SEO is an AI-native SEO platform built by Bytenovo that provides technical audits, AI visibility scoring, keyword research, rank tracking, and competitor analysis. The service respects robots.txt, offers a freemium tier, and emphasizes transparent measurement with clear labeling of estimated versus measured data. It serves agencies and in‑house teams with API access for automation.
+
+**Areas:** SEO · AI · Marketing · SaaS · Platform
+
+## Pylon SEO on APIs.io
+
+Everything profiled for Pylon SEO is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/pylonseo-io/](https://apis.io/providers/pylonseo-io/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Pylon SEO API](https://apis.io/apis/pylonseo-io/pylon-seo-api/) — API for Pylon SEO platform providing site audit and SEO data.
+- [Pylon SEO API](https://apis.io/apis/pylonseo-io/pylonseo-io-api/) — Pylon SEO API as documented publicly: 8 operations. Contract generated from the documentation by API Evangelist (2026-11-22); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (3)
+
+The data models the API reads and writes.
+
+- [PostV1ScanRequest](https://apis.io/schemas/pylonseo-io/pylonseo-io-post-v1-scan-request/)
+- [PostV1ScanResponse](https://apis.io/schemas/pylonseo-io/pylonseo-io-post-v1-scan-response/)
+- [PostWebhooksPylonRequest](https://apis.io/schemas/pylonseo-io/pylonseo-io-post-webhooks-pylon-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Pylonseo Io Context](https://apis.io/jsonld/pylonseo-io/pylonseo-io-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Pylon SEO API Rules](https://apis.io/rules/pylonseo-io/pylonseo-io-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Pylon SEO Domain Security](https://apis.io/security/pylonseo-io/pylonseo-io-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Pylon SEO Plans Pricing](https://apis.io/plans/pylonseo-io/pylonseo-io-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://pylonseo.io/)
+- [Documentation](https://pylonseo.io/docs)
+- [Pricing](https://pylonseo.io/pricing)
+- [Blog](https://pylonseo.io/blog)
+- [Terms of service](https://pylonseo.io/terms)
+- [Privacy policy](https://pylonseo.io/privacy)
+
+## API Evangelist rating
+
+**Kin Score 46.7** — developing · rubric 0.27.0 · scored 2026-11-22
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 49.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 73.2 |
+
+**Agent readiness 38.6** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/pylonseo-io/](https://apis.io/providers/pylonseo-io/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Pylon SEO: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/pylonseo-io/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
